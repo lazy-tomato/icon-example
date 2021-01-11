@@ -10,6 +10,7 @@
     "core-js": "^3.6.5",
     "element-ui": "^2.14.1",
     "node-loader": "^1.0.2",
+    "svg-sprite-loader": "^5.2.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },

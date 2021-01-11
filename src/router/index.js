@@ -27,13 +27,18 @@ const routes = [
       },
       {
         path: "second",
-        meta: { title: "精灵图", icon: "el-icon-s-tools" },
+        meta: { title: "CSS-Sprite", icon: "el-icon-s-tools" },
         component: () => import("../views/Example/component/second"),
       },
       {
         path: "third",
         meta: { title: "精灵图", icon: "el-icon-star-off" },
         component: () => import("../views/Example/component/third"),
+      },
+      {
+        path: "fourth",
+        meta: { title: "SVG进阶用法", icon: "el-icon-star-off" },
+        component: () => import("../views/Example/component/fourth"),
       },
     ],
   },

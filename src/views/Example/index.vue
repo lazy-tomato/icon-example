@@ -45,6 +45,10 @@ export default {
   overflow-y: auto;
 }
 
+.nav  .el-menu{
+  border: none;
+}
+
 .center {
   width: 100%;
   height: 100%;
