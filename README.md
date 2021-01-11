@@ -13,6 +13,10 @@
 
 ## 项目运行
 
+### 下载代码
+
++ 请选择tomato分支，download即可。
+
 ### 拉完代码后安装所有的依赖包
 ```
 npm install
@@ -23,10 +27,7 @@ npm install
 npm run dev
 ```
 
-### Compiles and minifies for production
+### 生产环境打包命令
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
