@@ -32,7 +32,7 @@ const routes = [
       },
       {
         path: "third",
-        meta: { title: "精灵图", icon: "el-icon-star-off" },
+        meta: { title: "iconfont用法案例", icon: "el-icon-star-off" },
         component: () => import("../views/Example/component/third"),
       },
       {
